@@ -5,8 +5,6 @@
 - Lenguaje: React JS + Tyspescript
 - Librerías React: Material UI (Data Grid, AppBar, IconButton, etc), Styled Components, Redux
 - Gestor de archivos: Yarn
-
-
 # DEFINICIÓN DE PRUEBA
 - Acerca de esta prueba
   Queremos saber su capacidad para crear una aplicación de una sola página modema y funcional. A continuación, encontrará una lista de requisitos y puntos clave que debe tener en cuenta durante el desarrollo.
